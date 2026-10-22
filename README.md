@@ -4,15 +4,13 @@
 
 ### Software Engineer · Full-Stack Systems · Enterprise Software · AI & Automation
 
-<a href="https://github.com/tahakubilay">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Building+end-to-end+software+products;Complex+business+logic+%E2%86%92+maintainable+systems;Enterprise+software+%2B+AI+%2B+real-time+systems;Open+to+software+engineering+roles+across+Europe" alt="Typing SVG" />
-</a>
+<img src="./assets/hero.svg" alt="Animated project header" />
 
 <br/>
 
-[![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Full--Stack-0A66C2?style=for-the-badge)](#-engineering-focus)
-[![AI & Automation](https://img.shields.io/badge/AI%20%26%20Automation-Builder-7C3AED?style=for-the-badge)](#-engineering-focus)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Europe-16A34A?style=for-the-badge)](#-open-to-opportunities)
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Full--Stack-0A66C2?style=for-the-badge)
+![AI & Automation](https://img.shields.io/badge/AI%20%26%20Automation-Builder-7C3AED?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Europe-16A34A?style=for-the-badge)
 
 </div>
 
