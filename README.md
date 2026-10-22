@@ -232,19 +232,6 @@ mindmap
 - [ ] Public demo environments
 - [ ] Release builds / APKs where applicable
 
----
-
-## 🌍 Open to Opportunities
-
-I'm currently pursuing **Software Engineering** opportunities in:
-
-**🇳🇱 Netherlands · 🇩🇪 Germany · 🇪🇺 Europe**
-
-I'm especially interested in roles involving:
-
-`Backend Engineering` · `Full-Stack Development` · `Product Engineering` · `Enterprise Systems` · `AI-Enabled Products`
-
----
 
 <div align="center">
 
