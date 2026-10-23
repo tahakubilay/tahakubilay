@@ -10,7 +10,6 @@
 
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Full--Stack-0A66C2?style=for-the-badge)
 ![AI & Automation](https://img.shields.io/badge/AI%20%26%20Automation-Builder-7C3AED?style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Europe-16A34A?style=for-the-badge)
 
 </div>
 
