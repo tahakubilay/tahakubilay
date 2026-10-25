@@ -4,9 +4,7 @@
 
 ### Software Engineer · Full-Stack Systems · Enterprise Software · AI & Automation
 
-<img src="./assets/hero.svg" alt="Animated project header" />
-
-<br/>
+<img src="./assets/hero.svg" alt="Animated profile header" />
 
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Full--Stack-0A66C2?style=for-the-badge)
 ![AI & Automation](https://img.shields.io/badge/AI%20%26%20Automation-Builder-7C3AED?style=for-the-badge)
@@ -15,22 +13,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I build software around **real operational problems** — systems with workflows, constraints, integrations, data and users that need to work together reliably.
+I build software around real operational problems: systems with workflows, constraints, integrations, data and users that need to work together reliably.
 
-My projects range from enterprise management platforms and workforce scheduling to real-time communication, self-hosted AI systems, developer tooling and experimental physical AI.
+My work spans enterprise management platforms, workforce scheduling, real-time communication, self-hosted AI systems, developer tooling and experimental physical AI.
 
 I enjoy working across the full product lifecycle:
 
 `Requirements` → `Architecture` → `Backend` → `Frontend` → `Integrations` → `Deployment`
 
-> [!TIP]
-> The repositories below are being prepared as **engineering case studies**. Each project will progressively include screenshots, technical architecture, setup instructions, demo environments and full code-derived documentation.
-
----
-
-# 🚀 Featured Engineering Work
+## Featured Engineering Work
 
 <table>
 <tr>
@@ -38,10 +31,9 @@ I enjoy working across the full product lifecycle:
 
 ### 🗓️ [Shift Planning System](https://github.com/tahakubilay/shift-planning-system)
 
-Rule-driven workforce scheduling and operations platform designed around complex personnel constraints, planning workflows and analytics.
+Rule-driven workforce scheduling platform for complex personnel constraints, planning workflows and analytics.
 
-**Focus:**  
-`Business Rules` `Scheduling` `Enterprise Software`
+**Focus:** `Business Rules` `Scheduling` `Enterprise Software`
 
 </td>
 <td width="50%" valign="top">
@@ -50,8 +42,7 @@ Rule-driven workforce scheduling and operations platform designed around complex
 
 Integrated business platform connecting customer operations, internal workflows, reporting and enterprise processes.
 
-**Focus:**  
-`CRM` `ERP` `Workflow Architecture`
+**Focus:** `CRM` `ERP` `Workflow Architecture`
 
 </td>
 </tr>
@@ -61,10 +52,9 @@ Integrated business platform connecting customer operations, internal workflows,
 
 ### 🎥 [LiveHide](https://github.com/tahakubilay/LiveHide)
 
-Privacy-focused real-time communication project centered around peer-to-peer video and audio interaction.
+Privacy-focused real-time communication platform built around relay-only WebRTC, encrypted signaling and application-layer media E2EE.
 
-**Focus:**  
-`WebRTC` `Real-Time Systems` `Networking`
+**Focus:** `WebRTC` `Networking` `Privacy Engineering`
 
 </td>
 <td width="50%" valign="top">
@@ -73,8 +63,7 @@ Privacy-focused real-time communication project centered around peer-to-peer vid
 
 Self-hosted personal AI and life-management platform combining assistants, automation, integrations and personal workflows.
 
-**Focus:**  
-`AI Systems` `Automation` `Self-Hosting`
+**Focus:** `AI Systems` `Automation` `Self-Hosting`
 
 </td>
 </tr>
@@ -86,42 +75,35 @@ Self-hosted personal AI and life-management platform combining assistants, autom
 
 Experimental physical AI assistant combining magnetic levitation, wireless power, directional audio sensing and expressive interaction.
 
-**Focus:**  
-`Physical AI` `Embedded Systems` `IoT`
+**Focus:** `Physical AI` `Embedded Systems` `IoT`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧭 [LokalHub](https://github.com/tahakubilay/LokalHub)
 
-Developer dashboard for discovering local services, open ports, APIs, processes and Docker workloads across multiple projects.
+Developer tool for discovering local services, ports, processes, APIs and Docker workloads across multiple projects.
 
-**Focus:**  
-`Developer Tooling` `Service Discovery` `Docker`
+**Focus:** `Developer Tooling` `Service Discovery` `Docker`
 
 </td>
 </tr>
 </table>
 
----
+## More Projects
 
-## 🧩 More Projects
-
-| Project | What it explores |
+| Project | Focus |
 |---|---|
 | ⚙️ **[MES Management Platform](https://github.com/tahakubilay/mes-management-platform)** | Operational workflows, administration, tracking and business reporting |
 | 📚 **[Library Management System](https://github.com/tahakubilay/library-management-system)** | Catalog, inventory, circulation and administrative workflows |
-| 📱 **CVsiz** | Mobile recruitment platform combining AI-assisted job discovery, candidate/employer flows and voice-oriented interaction — **public portfolio release in preparation** |
 
----
-
-# 🧠 Engineering Focus
+## Engineering Focus
 
 <table>
 <tr>
 <td valign="top">
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 - Application architecture
 - REST APIs
 - Authentication & authorization
@@ -131,7 +113,7 @@ Developer dashboard for discovering local services, open ports, APIs, processes 
 </td>
 <td valign="top">
 
-### 🖥️ Product Engineering
+### Product Engineering
 - Full-stack applications
 - Operational dashboards
 - Administrative interfaces
@@ -143,7 +125,7 @@ Developer dashboard for discovering local services, open ports, APIs, processes 
 <tr>
 <td valign="top">
 
-### 🏢 Enterprise Systems
+### Enterprise Systems
 - CRM / ERP
 - Workforce management
 - Inventory systems
@@ -153,7 +135,7 @@ Developer dashboard for discovering local services, open ports, APIs, processes 
 </td>
 <td valign="top">
 
-### 🤖 AI & Automation
+### AI & Automation
 - AI assistants
 - Conversational experiences
 - Automation workflows
@@ -165,16 +147,16 @@ Developer dashboard for discovering local services, open ports, APIs, processes 
 <tr>
 <td valign="top">
 
-### 🌐 Real-Time Systems
+### Real-Time Systems
 - WebRTC
-- Peer-to-peer communication
+- Signaling
 - Event-driven state
 - Network-aware UX
 
 </td>
 <td valign="top">
 
-### 🔬 Experimental Engineering
+### Experimental Engineering
 - Embedded systems
 - IoT
 - Physical AI
@@ -185,50 +167,9 @@ Developer dashboard for discovering local services, open ports, APIs, processes 
 </tr>
 </table>
 
----
+## Open to Opportunities
 
-## 🗺️ Portfolio Map
-
-```mermaid
-mindmap
-  root((Taha Kubilay))
-    Enterprise Software
-      CRM / ERP
-      Workforce Planning
-      MES
-      Library Operations
-    AI & Automation
-      Nexus
-      CVsiz
-      Personal Assistants
-    Real-Time
-      LiveHide
-      WebRTC
-    Developer Tooling
-      LokalHub
-      Local Service Discovery
-    Physical Computing
-      A.U.R.A.
-      Embedded Systems
-      IoT
-```
-
----
-
-## 🛠️ Portfolio Build Status
-
-- [x] GitHub profile structure
-- [x] Public project repositories
-- [x] Recruiter-facing project overviews
-- [x] Visual README standard
-- [ ] Final source-code cleanup
-- [ ] Full technical documentation
-- [ ] Architecture & database diagrams
-- [ ] Real screenshots and product GIFs
-- [ ] Installation guides
-- [ ] Public demo environments
-- [ ] Release builds / APKs where applicable
-
+I am open to software engineering opportunities across Europe, with particular interest in backend, full-stack, product engineering, enterprise systems and AI-enabled products.
 
 <div align="center">
 
