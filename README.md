@@ -96,6 +96,8 @@ Developer tool for discovering local services, ports, processes, APIs and Docker
 |---|---|
 | ⚙️ **[MES Management Platform](https://github.com/tahakubilay/mes-management-platform)** | Operational workflows, administration, tracking and business reporting |
 | 📚 **[Library Management System](https://github.com/tahakubilay/library-management-system)** | Catalog, inventory, circulation and administrative workflows |
+| 🗂️ **[QuickFile](https://github.com/tahakubilay/Quick-File)** | Context-aware desktop file actions, compact workflows and interaction design |
+| 🗜️ **[HobbitZip](https://github.com/tahakubilay/HobbitZip)** | Experimental lossless compression, algorithm evaluation and reproducible benchmarking |
 
 ## Engineering Focus
 
