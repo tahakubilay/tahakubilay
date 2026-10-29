@@ -4,7 +4,7 @@
 
 ### Software Engineer · Full-Stack Systems · Enterprise Software · AI & Automation
 
-<img src="./assets/hero.svg" alt="Animated profile header" />
+<img src="./assets/hero.svg" alt="Software engineering portfolio visual identity" />
 
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Full--Stack-0A66C2?style=for-the-badge)
 ![AI & Automation](https://img.shields.io/badge/AI%20%26%20Automation-Builder-7C3AED?style=for-the-badge)
